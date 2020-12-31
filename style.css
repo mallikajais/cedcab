@@ -1,0 +1,47 @@
+.body{
+	background-color: rgb(134 12 73 / 72%);
+    height: inherit;}
+.bgimg{
+	background-image: url("banner.jpeg");
+	background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+	height: auto;
+	width: 100%;
+}
+.footer{
+	background-color: black;
+	height: auto;
+	width: 100%;
+	color: white;
+	padding-left: 50px;
+	padding: 18px;
+}
+.form-control{
+	width:95%;
+}
+label,b{
+	color: white;
+}
+h5{
+	color: white;
+	text-align: center;
+}
+.bg-dark {
+    background-color: #040404 !important;
+}
+.navbar-light .navbar-toggler {
+
+    background-color: #00BCD4 !important;
+}
+ a{
+	font-size: 20px;
+}
+select,input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button{
+	-webkit-appearance: none;
+}
+.modal-content{
+	background-color: #cbf4f8 !important;
+	font-size: 30px;
+}
